@@ -9,7 +9,7 @@ const contacts = [
   },
   {
     id: "richar",
-    name: "Richard Kalehoff",
+    name: "Richar Kalehoff",
     handle: "richardkalehoff",
     avatarURL: "http://localhost:5001/richard.jpg"
   },
