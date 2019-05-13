@@ -8,7 +8,7 @@ const contacts = [
     avatarURL: "http://localhost:5001/karen.jpg"
   },
   {
-    id: "richard",
+    id: "richar",
     name: "Richard Kalehoff",
     handle: "richardkalehoff",
     avatarURL: "http://localhost:5001/richard.jpg"
